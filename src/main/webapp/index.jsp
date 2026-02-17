@@ -63,7 +63,7 @@
 </head>
 <body>
   <marquee behavior="scroll" direction="left" style="background-color: #e74c3c; color: white; padding: 10px;">
-    LAERN HERE and LEAD ANY WHERE.  PYTHONLIFE-DEVOPS, we don't just teach skills, we ignite careers. Join us and discover the limitless opportunities awaiting you in the world of Python and DevOps - Welcome to PYTHONLIFE-DEVOPS - Your gateway to Python and DevOps expertise!
+    heyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy, we don't just teach skills, we ignite careers. Join us and discover the limitless opportunities awaiting you in the world of Python and DevOps - Welcome to PYTHONLIFE-DEVOPS - Your gateway to Python and DevOps expertise!
   </marquee>
   <h1>Welcome to <span style="color: #ff5733;">PYTHONLIFE-DEVOPS</span></h1>
   <a href="#" onclick="toggleCourseDetails()">Click Here To Display Pythonlife Training Schedules</a>
